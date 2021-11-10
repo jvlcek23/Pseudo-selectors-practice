@@ -1,0 +1,8 @@
+.box{
+    border: 1px solid black;
+    width: 250px;px;
+    height:150px;
+}
+.box:hover{
+    background:red;
+}
